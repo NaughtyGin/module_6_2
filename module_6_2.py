@@ -35,6 +35,7 @@ class Vehicle:
 class Sedan(Vehicle):
     pass
 
+
 # Текущие цвета __COLOR_VARIANTS = ['blue', 'red', 'green', 'black', 'white']
 vehicle1 = Sedan('Fedos', 'Toyota Mark II', 'blue', 500)
 
